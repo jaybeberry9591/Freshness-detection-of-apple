@@ -11,4 +11,4 @@ Training,
 Exporting the inference graph,
 Testing and using your newly trained object detection classifier
 
-Here we have used tensorflow 1.5 and python 3.6 and faster RCNN inception CoCo model for modeling. To run code you first need to set up environment and then run code  Object_detection_webcam.py.This code is able to identify freshness of any kind of apple with respect to size, color and shape.
+Here we have used tensorflow 1.5 and python 3.6 and faster RCNN inception CoCo model for modeling. To run code you first need to set up environment and then run code  Object_detection_webcam.py.This code is able to identify freshness of any kind of apple with respect to size, color and shape. You can find the full project here in this link https://drive.google.com/drive/u/1/folders/1spHYN1PjxkVioshM3anGPIqUW3rErfuj
